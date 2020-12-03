@@ -32,3 +32,6 @@ Config.xml example:
 
 ```
 Block allQueues may be repeat several times.
+
+last version
+https://github.com/sergeylysov/TibcoJMSMonitoring/releases/download/1/TibcoJMSMonitoring-1.0-jar-with-dependencies.jar
