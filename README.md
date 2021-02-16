@@ -1,5 +1,6 @@
 # TibcoJMSMonitoring
 This utility provide read metrics from Tibco ESB manager via tibjmsadmin and send to InfluxDb
+Requaired InfluxDB 1.8 or later
 ### Metrics:
 * PendingMessageCount
 
